@@ -13,7 +13,7 @@ theme = "casper3"
 [params]
   facebook = "https://facebook.com"
   twitter = "https://twitter.com"
-  github = "https://github.com/jonathanjanssens"
+  github = "https://github.com/astrobrew"
   description = "Just a demo site for the Casper3 theme ported to Hugo"
   mainSections = ["post"]
 
@@ -71,3 +71,4 @@ series = "series"
   [services.twitter]
     disableInlineCSS = true
 
+ignoreErrors = ["error-remote-getjson"]
