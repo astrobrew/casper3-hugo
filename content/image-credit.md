@@ -1,11 +1,11 @@
 +++
-title = "Image Credit"
+author = "Jonathan Janssens"
+date = 2019-11-03T00:00:00Z
 description = "Giving credit to the images used in the demo"
 summary = "Thank you to the authors of these images used in this theme demo"
-date = "2019-11-03"
-author = "Jonathan Janssens"
-+++
+title = "Image Credit"
 
++++
 ![Topography pattern](/images/topography.svg)
 Topography pattern from [Hero Patterns](http://www.heropatterns.com/)
 
@@ -27,3 +27,4 @@ Photo by [Kelly Sikkema on Unsplash
 ![turtle underwater](/images/francesco-ungaro-GX81x7KTfIw-unsplash.jpg)
 Photo by [Francesco Ungaro on Unsplash
 ](https://unsplash.com/photos/GX81x7KTfIw)
+ignoreErrors = ["error-remote-getjson"]
